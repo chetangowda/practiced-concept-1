@@ -1,0 +1,16 @@
+<!doctype html>
+
+<html>
+<head>
+	<style type="text/css">
+		h1,p{color:red;}
+	</style>
+</head>
+
+<body>
+this is normal
+<h1>this is header one</h1>
+<p>this is a paragraph</p>
+
+</body>
+</html>
